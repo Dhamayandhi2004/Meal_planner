@@ -72,3 +72,16 @@ Front-end Folder Structuring, Edamam API
 ---
 
 created by _David Padilla, Sara Austin, Ksenia Malysheva, Libby Duggan_
+
+
+-Landing Page
+![project screenshots](client/src/images/screencapture_1.png)
+
+-Search Page
+![project screenshots](client/src/images/screencapture_2.png)
+
+-Quick Planner
+![project screenshots](client/src/images/screencapture_3.png)
+
+-Dashboard
+![project screenshots](client/src/images/screencapture_4.png)
